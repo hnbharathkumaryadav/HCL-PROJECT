@@ -1,6 +1,7 @@
 # HCL-PROJECT
 EMPLOYEE RETENTION PREDICTOR
 
+Employee retention is one of the most critical challenges faced by organizations today. High employee turnover leads to increased recruitment costs and loss of productivity. The Employee Retention Predictor system is designed to help organizations analyze employee data and predict the likelihood of employees staying or leaving the company.
 
 structure:
 employeeretentionpredictor/
