@@ -2,9 +2,9 @@
 # Employee Retention Predictor
 
 ## 📌 Project Overview
-This project aims to predict employee retention using machine learning and MongoDB as the data storage. The repository includes source code, model logic, and supporting libraries.
+The Employee Retention Predictor is a Java-based data analysis application that predicts whether an employee is likely to stay or leave a company based on input parameters. The application integrates with MongoDB for storing employee records and uses analytical logic to calculate retention outcomes. It demonstrates full data processing and Java–MongoDB connectivity using the official MongoDB driver.
 
-Students are expected to submit their work on the given project. They should also provide visual representations and summary statistics of their findings. Ensure data integrity and consistency in your submission.
+This project was developed as part of the GUVI Technical Upskilling Program and serves as a real-world demonstration of employee analytics and database-driven prediction systems.
 
 ---
 
@@ -33,7 +33,7 @@ B:/employeeretentionpredictor/
 ## ⚙️ How to Compile the Project
 
 ```sh
-javac -cp "./libs/*" employeeretentionpredictor.java
+javac -cp "libs\mongodb-driver-sync-4.10.2.jar;libs\mongodb-driver-core-4.10.2.jar;libs\bson-4.10.2.jar;." employeeretentionpredictor.java
 ```
 
 ---
@@ -41,7 +41,7 @@ javac -cp "./libs/*" employeeretentionpredictor.java
 ## ▶️ How to Run the Project
 
 ```sh
-java -cp ".;./libs/*" employeeretentionpredictor
+java -cp "libs\mongodb-driver-sync-4.10.2.jar;libs\mongodb-driver-core-4.10.2.jar;libs\bson-4.10.2.jar;." employeeretentionpredictor
 ```
 
 > **Note (Windows):** Use `;` as separator in classpath.  
@@ -84,7 +84,8 @@ These can be done using:
 ---
 
 ## 👨‍💻 Author / Team
-Add your:
-- Name
-- Roll number or team ID
-- Institution details
+
+- H N BHARATH KUMAR
+- 22781A0545
+- COMPUTER SCIENCE AND ENGINEERING
+- SRI VENKATESWARA COLLEGE OF ENGINEERING AND TECHNOLOGY
