@@ -1,6 +1,7 @@
 # HCL-PROJECT
 
 🧠 Employee Retention Predictor (Java + MongoDB)
+
 📘 Project Overview
 The Employee Retention Predictor is a Java-based data analysis application that predicts whether an employee is likely to stay or leave a company based on input parameters. The application integrates with MongoDB for storing employee records and uses analytical logic to calculate retention outcomes. It demonstrates full data processing and Java–MongoDB connectivity using the official MongoDB driver.
 
